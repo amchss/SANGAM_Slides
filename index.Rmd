@@ -60,7 +60,7 @@ captions <- c('2011', '2012', '2013','2014', '2015', '2016', '2017', '2018', '20
 
 # .black[.large[.font100[.bold[Use of GIS in Public Health]]]]
 
-## .black[.large[.bold[Charms & Chellenges from Experience]]]
+## .black[.large[.bold[Charms & Challenges from Experience]]]
 
 #### .black[.large[.bold[2023-06-03]]]
 
